@@ -13,7 +13,7 @@
 * **'Postman testowanie Rest API'**
 * **'Cypress od podstaw - automatyzacja testów'** - w trakcie
 # Techniczne ksiązki
-* **Podróżowanie przez świat testowania** Karolina Pawłowska & Natalia Pawlak - w trakcie
+* **'Podróżowanie przez świat testowania'** Karolina Pawłowska & Natalia Pawlak - w trakcie
 
 <!---
 JanuszDamian/JanuszDamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
