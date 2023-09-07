@@ -10,11 +10,10 @@
 * **Narzędzia do zarządzania testowaniem**: Redmine
 # Kursy
 * **'Kurs Selenium Java od podstaw'**
-* **'Postman testowanie Rest API'** - w trakcie
+* **'Postman testowanie Rest API'**
+* **'Cypress od podstaw - automatyzacja testów'**
 # Techniczne ksiązki
 * **Podróżowanie przez świat testowania** Karolina Pawłowska & Natalia Pawlak - w trakcie
-# Przykładowy proces automatyzacji
-* https://github.com/JanuszDamian/googleRegisterUser.git
 
 <!---
 JanuszDamian/JanuszDamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
