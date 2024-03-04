@@ -1,13 +1,13 @@
 # 'O mnie'
   Cześć, jestem Janusz.
   Z wykształcenia jestem mgr. inż. Automatyki i Robotyki. Początek mojej zawodowej kariery związany jest z branżą produkcyjną gdzie pracowałem jako inżynier procesu i inżynier jakości.
-  Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jaokści oprogramowania i rozwijam swoje umiejętności w kierunku automatyzacji testów.
+  Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jakści oprogramowania i rozwijam swoje umiejętności w kierunku automatyzacji testów.
 # Narzędzia na których pracuje
-* **Języki programowania**: java
+* **Języki programowania**: java, C++
 * **Bazy danych**: MS SQL
 * **System operacyjny**: Windows
 * **System kontroli wersji**: Git
-* **Narzędzia do zarządzania testowaniem**: Redmine
+* **Narzędzia do zarządzania testowaniem**: Redmine, Jira
 # Kursy
 * **'Kurs Selenium Java od podstaw'**
 * **'Postman testowanie Rest API'**
