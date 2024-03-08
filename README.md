@@ -14,6 +14,8 @@
 * **'Cypress od podstaw - automatyzacja testów'** - w trakcie
 # Techniczne ksiązki
 * **'Podróżowanie przez świat testowania'** Karolina Pawłowska & Natalia Pawlak - w trakcie
+# Przykładowy proces Selenium Java
+* link do repozytorium: https://github.com/JanuszDamian/ShopTest.git
 
 <!---
 JanuszDamian/JanuszDamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
