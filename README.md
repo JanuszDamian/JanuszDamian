@@ -13,7 +13,7 @@
 * **'Kurs Selenium Java od podstaw'**
 * **'Postman testowanie Rest API'**
 * **'Cypress od podstaw - automatyzacja testów'** - w trakcie
-* **'Automated software testing with playwright'**
+* **'Automated software testing with playwright'** - w trakcie
 # Techniczne ksiązki
 * **'Podróżowanie przez świat testowania'** Karolina Pawłowska & Natalia Pawlak - w trakcie
 # Przykładowy proces w playwright
