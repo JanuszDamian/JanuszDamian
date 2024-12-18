@@ -17,7 +17,7 @@
 # Techniczne ksiązki
 * **'Podróżowanie przez świat testowania'** Karolina Pawłowska & Natalia Pawlak - w trakcie
 # Przykładowy proces w playwright
-* link do repozytorium: https://github.com/JanuszDamian/ShopTest.git
+* link do repozytorium: https://github.com/JanuszDamian/Saucedemo-playwright.git
 
 <!---
 JanuszDamian/JanuszDamian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
