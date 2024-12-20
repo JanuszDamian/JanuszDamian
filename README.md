@@ -16,7 +16,7 @@
 * **'Automated software testing with playwright'** - w trakcie
 # Techniczne ksiązki
 * **'Podróżowanie przez świat testowania'** Karolina Pawłowska & Natalia Pawlak - w trakcie
-# Przykładowy proces w playwright
+# Przykładowy proces automatyzacji testów w playwright
 * link do repozytorium: https://github.com/JanuszDamian/Saucedemo-playwright.git
 
 <!---
