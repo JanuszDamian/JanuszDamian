@@ -1,7 +1,7 @@
 # 'O mnie'
   Cześć, jestem Janusz.  
   Z wykształcenia jestem mgr. inż. Automatyki i Robotyki. Początek mojej zawodowej kariery związany jest z branżą produkcyjną gdzie pracowałem jako inżynier procesu i inżynier jakości.
-  Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jakości oprogramowania i rozwijam swoje umiejętności w kierunku automatyzacji testów.
+  Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jakości oprogramowania. Pracuję głównie przy projektach wdrożeniowych systemu CRM, gdzie wykonuje testy funkcjonalne, integracyjne i regresyjne. W wolnych chwilach rozwijam swoje umiejętności w kierunku automatyzacji testów.
   <br> Skontaktuj się ze mną[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janusz-dobro%C5%84ski-100a04186/)
 # Narzędzia na których pracuje
 * **Języki programowania**: java, C++, type script
