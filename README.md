@@ -9,6 +9,7 @@
 * **System operacyjny**: Windows
 * **System kontroli wersji**: Git
 * **Narzędzia do zarządzania testowaniem**: Redmine, Jira, ADO
+* **Narzędzia do automatyzacji testów**: Playwright, Cypress
 # Kursy
 * **'Kurs Selenium Java od podstaw'**
 * **'Postman testowanie Rest API'**
