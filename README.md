@@ -67,6 +67,7 @@ Uruchomienie danego typu testów (używane są: @Sorting, @E2E, @Login):
 - npm run tests:chrome -- --grep "@E2E"
   
 **6. Raporty z testów:**
+
 Jeżeli test zakończy się błędem, w formacie HTML zostaje wyświetlony raport zawierający screen, nagranie z przebiegu procesu, przyczynę wystąpienia błędu oraz w załączniku logi.
 Jeżeli wszystkie testy zakończyły się pozytywnie, raport można uruchomić korzystając z komendy: npx playwright show-report.
 
