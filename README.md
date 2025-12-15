@@ -33,12 +33,12 @@ Weryfikuje funkcjonalności logowania, sortowania produktów na stronie oraz kil
 - Prettier – formatowanie kodu
 
 **3. Struktura projektu:**
-src
- ├── data
- │     └── types
- │     └── json
- └── pages
- └── tests
+src<br>
+├── data<br>
+│    ├── types<br>
+│    └── json<br>
+├── pages<br>
+└── tests<br>
      
 gdzie:
 - data - folder z danymi testowymi
