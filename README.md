@@ -33,6 +33,7 @@ Weryfikuje funkcjonalności logowania, sortowania produktów na stronie oraz kil
 - Prettier – formatowanie kodu
 
 **3. Struktura projektu:**
+
 src<br>
 ├── data<br>
  │    ├── types<br>
