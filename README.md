@@ -35,8 +35,8 @@ Weryfikuje funkcjonalności logowania, sortowania produktów na stronie oraz kil
 **3. Struktura projektu:**
 src<br>
 ├── data<br>
-│    ├── types<br>
-│    └── json<br>
+ │    ├── types<br>
+ │    └── json<br>
 ├── pages<br>
 └── tests<br>
      
