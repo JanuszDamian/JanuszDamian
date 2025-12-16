@@ -1,4 +1,4 @@
-# 'O mnie'
+2# 'O mnie'
   Cześć, 
   Z wykształcenia jestem mgr. inż. Automatyki i Robotyki. Początek mojej zawodowej kariery związany jest z branżą produkcyjną gdzie pracowałem jako inżynier procesu i inżynier jakości.
   Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jakości oprogramowania. Pracuję głównie przy projektach wdrożeniowych systemu CRM, gdzie wykonuje testy funkcjonalne, integracyjne i regresyjne. W ostatnim projekcie stworzyłem testy automatyczne ścieżek E2E z wykorzystaniem playwright/typeScript. W wolnych chwilach rozwijam swoje umiejętności w kierunku automatyzacji testów.
@@ -53,7 +53,7 @@ gdzie:
 
 **5. Instalacja:**
 * W wybranym lokalnie folderze należy za pomocą git sklonować repozytorium:
-git clone [https://github.com/twoj-login/nazwa-repo.git](https://github.com/JanuszDamian/SauceDemo-playwright.git)
+git clone https://github.com/JanuszDamian/SauceDemo-playwright.git
 * Zainstalować moduł playwright do testów automatycznych: npm install @playwright/test
 * Zainstalować przeglądarki do testowania, korzytając z komendy: npx playwright install
 
