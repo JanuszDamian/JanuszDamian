@@ -64,6 +64,9 @@ Uruchomienie wszystkich testów w przeglądarce:
 
 Uruchomienie danego typu testów (używane są: @Sorting, @E2E, @Login):
 - npm run tests:chrome -- --grep "@E2E"
+
+Uruchomienie testów wizualnych:
+- npm run tests:visual:chrome
   
 **6. Raporty z testów:**
 
