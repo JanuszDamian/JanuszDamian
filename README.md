@@ -24,9 +24,8 @@ Weryfikuje funkcjonalności logowania, sortowania produktów na stronie oraz kil
 
 **2. Technologie:**
 - TypeScript – język testów
-- Playwright – automatyzacja testów E2E
+- Playwright – moduł do automatyzacji testów
 - Node.js – środowisko uruchomieniowe
-- Playwright Test Runner
 - Chromium / Firefox – przeglądarki testowe
 - HTML Reporter – raportowanie wyników testów
 - Prettier – formatowanie kodu
