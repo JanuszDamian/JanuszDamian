@@ -48,8 +48,8 @@ gdzie:
 
 **4. Wymagania:**
 - Node.js 18 lub nowszy
-- npm
 - Git
+- Edytor kodu (np Visual Studio Code)
 - Dostęp do internetu
 
 **5. Instalacja:**
