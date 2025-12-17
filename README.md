@@ -4,7 +4,7 @@
   Od początku 2022 roku zmieniłem branżę na IT. Obecnie pracuje na stanowisku Specjalista ds. jakości oprogramowania. Pracuję głównie przy projektach wdrożeniowych systemu CRM, gdzie wykonuje testy funkcjonalne, integracyjne i regresyjne. W ostatnim projekcie stworzyłem testy automatyczne ścieżek E2E z wykorzystaniem playwright/typeScript. W wolnych chwilach rozwijam swoje umiejętności w kierunku automatyzacji testów.
   <br> Skontaktuj się ze mną[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/janusz-dobro%C5%84ski-100a04186/)
 # Narzędzia na których pracuje
-* **Języki programowania**: java, C#, type script
+* **Języki programowania**: type scirpt, java, C#
 * **Bazy danych**: MS SQL
 * **System operacyjny**: Windows
 * **System kontroli wersji**: Git
